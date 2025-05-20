@@ -6,17 +6,29 @@
 
 <hr>
 
-<h2>📦 Contenido del Repositorio</h2>
+<h2>🎯 Objetivos de Aprendizaje</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>💼 Proyecto</th>
-      <th>🧠 Descripción</th>
-      <th>🧰 Tecnologías clave</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>RegistroSimulacion</code></td>
-      <td>Simula el registro de parámetros antes de una corrida de simulación industrial.</td>
+<ul>
+  <li>✅ Manejo de archivos con <code>NIO.2</code> (<code>Path</code>, <code>Files</code>)</li>
+  <li>✅ Lectura eficiente de logs y validación de errores</li>
+  <li>✅ Aplicación de principios <strong>SOLID</strong> en diseño orientado a objetos</li>
+  <li>✅ Creación de excepciones personalizadas</li>
+  <li>✅ Validación de datos, estructuras de control y robustez de código</li>
+</ul>
+
+<hr>
+
+<h2>💡 Sobre estos retos</h2>
+
+<p>Estos ejercicios fueron diseñados como simulaciones realistas de tareas técnicas en distintas áreas del desarrollo backend, QA y operaciones. Representan buenas prácticas y preparación para roles profesionales en entornos Java.</p>
+
+<hr>
+
+<h2>✨ Autor</h2>
+
+<p>
+  <strong>Nombre:</strong> Wendy Areli Ramírez Burgos <br>
+  <strong>Rol:</strong> Java Developer en formación 🚀 | Simulación | QA | DevOps <br>
+  <strong>GitHub:</strong> <a href="https://github.com/@0Wenn0">@0Wenn0</a>
+</p>
+
