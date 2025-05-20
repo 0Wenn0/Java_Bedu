@@ -29,6 +29,6 @@
 <p>
   <strong>Nombre:</strong> Wendy Areli Ramírez Burgos <br>
   <strong>Rol:</strong> Java Developer en formación 🚀 | Simulación | QA | DevOps <br>
-  <strong>GitHub:</strong> <a href="https://github.com/@0Wenn0">@0Wenn0</a>
+  <strong>GitHub:</strong> <a href="https://github.com/0Wenn0">@0Wenn0</a>
 </p>
 
