@@ -1,0 +1,1 @@
+Error al analizar errores.log: errores.log (El sistema no puede encontrar el archivo especificado)
