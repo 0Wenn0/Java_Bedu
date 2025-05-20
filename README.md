@@ -20,7 +20,7 @@
 
 <h2>💡 Sobre estos retos</h2>
 
-<p>Estos ejercicios fueron diseñados como simulaciones realistas de tareas técnicas en distintas áreas del desarrollo backend, QA y operaciones. Representan buenas prácticas y preparación para roles profesionales en entornos Java.</p>
+<p>Estos ejercicios fueron diseñados como simulaciones realistas de tareas técnicas desde los conceptos básicos hasta la aplicación en distintas áreas del desarrollo backend, QA y operaciones. Representan buenas prácticas y preparación para roles profesionales en entornos Java.</p>
 
 <hr>
 
